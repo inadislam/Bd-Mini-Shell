@@ -5,8 +5,7 @@ It's a php based Web shell.
 
 A PHP based Mini Web Shell having some Common features Like:
      ```File Browser```    
-     ```File edit, delete, chmode, Rename.```    
-     ```Server Information```  
+     ```File edit, delete, chmode, Rename.```
 Etc.  
  
 # Note:   This Script is intended to be used for educational purposes only, no-one involved in the creation of this script may be held responsible for any illegal acts brought by anyone by using this script.
